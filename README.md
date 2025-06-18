@@ -1,6 +1,6 @@
 ### Hello World 👋 Eu sou a Isadora 😊🩷<br>
 🌟 Curso Sistemas de Informação na PUC Minas <br> 
-🌟 Atualmente estou aprimorando meus conhecimentos em tecnologia com foco no Desenvolvimento Web Front-end
+🌟 Atualmente estou aprimorando meus conhecimentos em tecnologia com foco no Desenvolvimento de Software
 
 ##
 ![Isadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=isadoraacardoso&show_icons=true&theme=radical)
