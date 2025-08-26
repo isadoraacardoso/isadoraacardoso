@@ -11,8 +11,7 @@
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ---
-
-##
+## GitHub Stats ⭐
 ![Isadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=isadoraacardoso&show_icons=true&theme=radical)
 
 ## Tecnologias e linguagens 💻
